@@ -13,6 +13,7 @@ function App() {
   return (
     <>
       <nav>
+         <div className="logo">A-SHOP</div>
         <ul>
           <li>
             <Link to="/home">Home</Link>
